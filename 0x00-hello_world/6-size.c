@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  *  main - size of various types on the computer
- *  return: 0 (success)
+ *  Return: 0 (success)
+ *
  */
 
 int main(void)
